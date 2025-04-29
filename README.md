@@ -16,4 +16,4 @@
 ```bash
 git clone https://github.com/your-username/debug-quest.git
 cd debug-quest
-python debug_quest.py``` 
+python debug_quest.py
